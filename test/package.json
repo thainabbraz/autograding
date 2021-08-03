@@ -1,0 +1,23 @@
+{
+  "name": "fspt7-functions-thaipt7",
+  "version": "1.0.0",
+  "description": "In this repository, you will practice writing and using functions.",
+  "main": "challenges.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeOp-tech/fspt7-functions-thaipt7.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodeOp-tech/fspt7-functions-thaipt7/issues"
+  },
+  "homepage": "https://github.com/CodeOp-tech/fspt7-functions-thaipt7#readme",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
