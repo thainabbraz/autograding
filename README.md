@@ -1,4 +1,4 @@
-# Functions
+# Functions test
 
 In this repository, you will practice writing and using functions.
 
